@@ -219,4 +219,18 @@ footer{
     footer{
         max-width: 80vw;
     }
+      .hero> :nth-child(1) {
+    font-weight: bolder;
+    font-size: 32px;
+  }
+
+  .hero> :nth-child(2) {
+    font-weight: bolder;
+    font-size: 18px;
+  }
+
+  .hero> :nth-child(3) {
+    font-weight: bolder;
+    font-size: 18px;
+  }
 }
